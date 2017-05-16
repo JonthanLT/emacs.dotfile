@@ -107,7 +107,7 @@ sh -c "$(wget https://raw.githubusercontent.com/JonthanLT/emacs.dotfile/master/i
 # IMPORTANT
 
 * You must not forget to add the c-headers path in the `.emacs` file
-* Change these line ```shell (setq login "rakoto_n") ```, ```shell (setq name "RAKOTONINDRINA Nickaël") ``` in `.emacs.d/std_comment` as your heart content I'm using this for my school.
+* Change these line ```shell (setq login "loquet_j") ```, ```shell (setq name "Jonathan LOQUET") ``` in `.emacs.d/std_comment` as your heart content I'm using this for my school.
 * Other thing to do, got to line number 36 then change the domaine name to yours, mine is for my school so be it.
 
 # Good luck and enjoy
