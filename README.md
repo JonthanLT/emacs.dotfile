@@ -33,6 +33,18 @@ or
 
 [More information here](https://cmake.org/install/)
 
+#### Geting clang
+```shell
+$ sudo apt-get install -y clang
+```
+or
+
+```shell
+# yum install clang
+```
+
+[More information here](https://clang.llvm.org/get_started.html)
+
 #### Getting and cpplint with pip pakage manager
 To get a good result of C/C++ mode you will need the to install CPPLINT. Its C/C++ linter
 
@@ -42,7 +54,7 @@ Then install pip packagage manager [here](https://pip.pypa.io/en/stable/quicksta
 You can now proceed to the installation of cpplint
 
 ```shell
-$ sudo pip install --global cpplint
+$ sudo pip install cpplint
 ```
 #### Getting PHP
 
