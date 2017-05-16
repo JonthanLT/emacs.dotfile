@@ -85,6 +85,18 @@ or
 # yum install php-codesniffer
 ```
 
+#### Geting NPM
+```shell
+$ sudo apt-get install -y npm
+```
+or
+
+```shell
+# yum install npm
+```
+
+[More information here](https://www.npmjs.com/get-npm)
+
 #### Install NodeJS - NPM and jslint
 
 To use flymake-jslint for NodeJS or Javascript linter you will need to install these package named in the subtitles before.
