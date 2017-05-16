@@ -10,8 +10,8 @@
 ;; Based on Comment routines by Isaac
 ;;
 
-(setq login "rakoto_n")
-(setq name "RAKOTONINDRINA Nickaël")
+(setq login "loquet_j")
+(setq name "Jonathan LOQUET")
 
 ;;
 ;; DO NOT TOUCH BELOW !!!!
