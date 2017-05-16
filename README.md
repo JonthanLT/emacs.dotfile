@@ -1,4 +1,4 @@
-Fork of [emacs.dotfile](https://github.com/Nickael/emacs.dotfile)
+Fork: [emacs.dotfile](https://github.com/Nickael/emacs.dotfile)
 
 # Getting started
 
